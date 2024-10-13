@@ -19,9 +19,6 @@
 - Python 3.x
 - Токен бота Telegram (его можно получить у [BotFather](https://core.telegram.org/bots#botfather))
 
-### Установка
+- [информация о ведения дневника](https://ru.wikipedia.org/wiki/%D0%94%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA)
 
-1. Склонируйте репозиторий:
-   ```bash
-   git clone https://github.com/yourusername/gratitude-journal-bot.git
-   cd gratitude-journal-bot
+
